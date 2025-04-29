@@ -106,5 +106,5 @@ async def endcheckin(interaction: discord.Interaction):
 
 keep_alive()
 
-BOT_TOKEN = 'OTM1ODIzOTc2OTI2NzAzNjI2.YfEP_g.npGnqbsfKvLuztoDf2RqzLvCK_4'
+BOT_TOKEN = '.'
 bot.run(BOT_TOKEN)
